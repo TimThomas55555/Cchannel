@@ -9,6 +9,14 @@ import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 
+/**
+ * Aplicación JavaFX que muestra una ventana en la que mostramos una imagen con dos botones, (live, die). Die cierra la aplicación
+ * y live abre una ventana nueva, mostrando una imagen.
+ * @author david
+ * @see Controlador
+ * 
+ */
+
 
 public class Main extends Application {
 	
