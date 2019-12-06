@@ -14,10 +14,7 @@ import javafx.scene.layout.BorderPane;
  * y live abre una ventana nueva, mostrando una imagen.
  * @author david
  * @see Controlador
- * 
  */
-
-
 public class Main extends Application {
 	
 	private AnchorPane anchorPanePrincipal;
